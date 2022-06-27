@@ -4,4 +4,4 @@ Atsisiuntus šią repozitoriją terminale parašykite komandą cd /front/ ir *np
 
 Duombazė - MongoDb Framework - ReactJS
 
-kylus klausimams rašykite į el. paštą poiutas@inbox.lt
+kilus klausimams rašykite į el. paštą poiutas@inbox.lt
