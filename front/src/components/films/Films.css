@@ -1,0 +1,66 @@
+form input,
+form select,
+form button {
+  border: 1px solid #7395ae;
+  width: 50vw;
+  padding: 1em;
+  margin: 3px auto;
+  font-size: 1.3em;
+}
+body {
+  background-image: url("https://www.citeprograms.com/wp-content/uploads/2019/09/iStock-969066628.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+button {
+  background-color: #a8becc;
+}
+
+form {
+  text-align: center;
+  margin-top: 6em;
+}
+
+/* TABLE */
+
+table {
+  margin: 6em auto;
+  text-align: center;
+  width: 60vw;
+}
+
+th {
+  font-weight: bold;
+}
+
+.films-table td,
+.films-table th {
+  padding: 0.7em 1.2em;
+  text-align: center;
+  border: 0.5px solid #7e685a;
+}
+
+.smaller-th {
+  width: 12vw;
+}
+
+.update-input {
+  width: 70%;
+  font-size: 1em;
+  padding: 0.5em;
+}
+
+.update-form .update-btn {
+  width: 1.5em;
+  border: none;
+  background: none;
+  padding: 0;
+  font-size: 1em;
+}
+
+.update-form {
+  margin: 0;
+}

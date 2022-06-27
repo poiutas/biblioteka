@@ -1,0 +1,34 @@
+.home-title {
+  text-align: center;
+  margin-top: 4rem;
+}
+body {
+  height: 100vh ;
+}
+
+.home-button,
+.home-input {
+  width: 40vw;
+  margin: 3px auto;
+  padding: 0.5rem;
+}
+
+.home-form {
+  margin-top: 3em;
+}
+.btn{
+margin-bottom: 15px;
+}
+
+.nav-button {
+width: 100%;
+}
+h1 {
+  text-align: center;
+  margin-top: 150px;
+  height: 50%;
+}
+p{
+  text-align: center;
+  font-size: 125%;
+}
